@@ -1,2 +1,2 @@
 # socket_send_Command
-Send command by socket to the server
+By this code, you learn how to use socket fopr sending text, data or command line to another host on the specific port
